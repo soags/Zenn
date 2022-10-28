@@ -1,0 +1,12 @@
+{
+  "name": "zenn",
+  "private": true,
+  "scripts": {
+    "start": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"   
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}
